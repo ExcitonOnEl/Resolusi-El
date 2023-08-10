@@ -1,7 +1,11 @@
 RESOLUSI EL
 - menjadi seorang webdev profesional dalam waktu 6-12 bulan.
-- Belajar HTML, CSS, dan Git-Github 2 Bulan.
-- Belajar JavaScript 3 bulan.
+  > Belajar HTML, CSS, dan Git-Github 2 Bulan.
+    + HTML5
+    + CSS dan Framework Bootstrap
+  > Belajar JavaScript 3 bulan.
+    + Dasar Javascript
+    + Framework React JS
 - Setiap 2 minggu minimal memiliki 1 Porto baru dan akan di publish di Github selama sebelum menajadi pekerja Professional.
 - Mengembangkan kemamapuan ke framework Bootstrap dan React JS selama waktu belajar CSS dan Javascript.
 - Join Komunitas Web Dev agar manambah relasi.
