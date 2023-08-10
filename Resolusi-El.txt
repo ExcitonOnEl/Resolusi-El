@@ -5,3 +5,4 @@ RESOLUSI EL
 - Setiap 2 minggu minimal memiliki 1 Porto baru dan akan di publish di Github selama sebelum menajadi pekerja Professional.
 - Mengembangkan kemamapuan ke framework Bootstrap dan React JS selama waktu belajar CSS dan Javascript.
 - Kedepanya akan merambah bidang BackEnd dan setelah BAckEND dikuasai akan merambah ke Cyber Security.
+- Menjadi Pekerja freelance project abroad dalam 2 tahun
