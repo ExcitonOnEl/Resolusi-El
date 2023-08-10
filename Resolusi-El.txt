@@ -4,11 +4,11 @@ RESOLUSI EL
     + HTML5
     + CSS dan Framework Bootstrap
   > Belajar JavaScript 3 bulan.
-    + Dasar Javascripts
-    + Framework React JS dan Vue JS
-  > Belajar PHP
+    + Dasar Javascript
+    + Framework React JS dan Angular JS
 - Setiap 2 minggu minimal memiliki 1 Porto baru dan akan di publish di Github selama sebelum menajadi pekerja Professional.
 - Mengembangkan kemamapuan ke framework Bootstrap dan React JS selama waktu belajar CSS dan Javascript.
+- Bisa juga ikut Bootcamp apabila dibutuhkan untuk mempercepat timeline
 - Join Komunitas Web Dev agar manambah relasi.
 - Menjadi Pekerja freelance project abroad dalam 2 tahun
 - Kedepanya akan merambah bidang BackEnd dan setelah BAckEND dikuasai akan merambah ke Cyber Security.
